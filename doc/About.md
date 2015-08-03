@@ -1,6 +1,6 @@
 ### Description
 
-Grab Union personal Union health insurance companz debtors.
+Grab Union health insurance company personal debtors.
 
 ### Configuration parameters
 
